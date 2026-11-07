@@ -1,0 +1,23 @@
+servers/officely/readme.md
+  s_b22c0f10b1a383::t_be27fe8c580ea7 1
+servers/officely/server.yaml
+  s_b22c0f10b1a383::t_ab37690f7f1076 1-23
+servers/officely/tools.json
+  s_b22c0f10b1a383::t_0e24ec544348d3 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6434b29177782655c123380619495b091306de93",
+  "prompts": {},
+  "sessions": {
+    "s_b22c0f10b1a383": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "013f3824-6f8e-4ddb-bb7c-f36d06940446",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Rich Turnbull <rich@getofficely.com>"
+    }
+  }
+}
